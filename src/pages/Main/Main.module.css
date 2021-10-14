@@ -1,0 +1,14 @@
+.combined {
+}
+
+.navMenu.combined {
+  @apply bg-opacity-0 transform fixed top-8
+}
+
+.combined .searchInput {
+  @apply hidden
+}
+
+.combined .searchIcon {
+  @apply visible
+}

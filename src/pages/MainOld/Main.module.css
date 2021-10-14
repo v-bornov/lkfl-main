@@ -1,0 +1,18 @@
+.sticky {
+  top: 32px !important;
+}
+
+.combined {
+}
+
+.combined .navMenu {
+  @apply bg-opacity-0 transform translate-x-2 top-8
+}
+
+.combined .searchInput {
+  @apply hidden
+}
+
+.combined .searchIcon {
+  @apply visible
+}
