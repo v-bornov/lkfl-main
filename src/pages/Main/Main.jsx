@@ -1,5 +1,4 @@
 import React from 'react';
-import { StickyContainer, Sticky } from 'react-sticky';
 import classNames from 'classnames';
 import useScrollPosition from '../../lib/useScrollPosition';
 import styles from './Main.module.css';
